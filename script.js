@@ -51,4 +51,4 @@ const perguntas = [
     caixaPerguntas.textContent = perguntaAtual.enunciado;
   }
 
-  function mostraPergunta()
+  mostraPergunta()
