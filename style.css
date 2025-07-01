@@ -1,2 +1,7 @@
-body{color: #180d7cd5;
-background-color: #bd930ad8;}
+:root{
+    --cor-fundo: #01080E;
+    --cor-principal: #0B0D20;
+    --cor-secundaria: #212333;
+    --cor-destaque: #2bdefd;
+    --cor-texto: #d7f9ff;
+}
