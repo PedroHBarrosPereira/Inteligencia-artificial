@@ -8,5 +8,6 @@
 
 body{
     background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     
 }
