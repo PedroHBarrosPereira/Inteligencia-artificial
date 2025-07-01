@@ -5,3 +5,8 @@
     --cor-destaque: #2bdefd;
     --cor-texto: #d7f9ff;
 }
+
+body{
+    background-color: var(--cor-fundo);
+    
+}
