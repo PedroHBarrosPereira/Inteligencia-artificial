@@ -15,6 +15,12 @@ body{
     min-height: 100vh;
 }
 .caixa-principal{
-    background-color: var(--cor-principal)
+    background-color: var(--cor-principal);
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: var(--cor-destaque);
     
 }
